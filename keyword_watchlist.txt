@@ -1,1 +1,1 @@
-台積電 2330,光寶科 2301,Trendforce 預估,IDC 預估,Gartner 預估
+光寶科 2301,台達電 2308,群光 2385,億光 2393,PC需求,NB需求,伺服器需求,EV電動車,Trendforce 預估,IDC 預估,Gartner 預估
